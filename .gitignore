@@ -1,0 +1,14 @@
+# Android Studio things
+/.idea/
+*.iml
+# Local Gradle setting
+.gradle
+/local.properties
+build.gradle
+proguard-rules.pro
+# Other Project Files
+/build
+libs/
+# (Coming soon!)
+/app/src/androidTest/
+/app/src/test/
