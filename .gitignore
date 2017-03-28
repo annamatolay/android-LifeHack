@@ -4,7 +4,6 @@
 # Local Gradle setting
 .gradle
 /local.properties
-build.gradle
 proguard-rules.pro
 # Other Project Files
 /build
