@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LifeHack</string>
+    <string name="usr_name"/>
+    <string name="date"/>
+    <string name="desc_remainingTime">Hour until end fo day:</string>
+    <string name="desc_loggedTime">Logged hour:</string>
+    <string name="res_remainingTime">24</string>
+    <string name="res_loggedTime">0</string>
+    <string name="desc_logging">Time logging (h):</string>
+    <string name="hint_logging">Enter a valid number!</string>
+    <string name="btn_submit">Submit</string>
+    <string name="desc_spinner">Set the time type</string>
+    <string-array name="timeType">
+        <item>coding</item>
+        <item>resting</item>
+        <item>no-tech time</item>
+    </string-array>
+</resources>
